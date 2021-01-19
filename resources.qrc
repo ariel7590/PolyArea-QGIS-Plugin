@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/poly_area" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
